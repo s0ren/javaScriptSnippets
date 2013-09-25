@@ -1,0 +1,3 @@
+[submodule "ElevPhotoAutomat"]
+	path = ElevPhotoAutomat
+	url = https://github.com/Rts-wix/ElevPhotoAutomat.git
